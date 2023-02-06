@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkdownWriter", "src\MarkdownWriter.csproj", "{12BA6237-7FEA-413C-B57D-D7A2CBE0788F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{73646769-593F-443B-BA55-5E8791C66FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12BA6237-7FEA-413C-B57D-D7A2CBE0788F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12BA6237-7FEA-413C-B57D-D7A2CBE0788F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12BA6237-7FEA-413C-B57D-D7A2CBE0788F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12BA6237-7FEA-413C-B57D-D7A2CBE0788F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73646769-593F-443B-BA55-5E8791C66FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73646769-593F-443B-BA55-5E8791C66FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73646769-593F-443B-BA55-5E8791C66FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73646769-593F-443B-BA55-5E8791C66FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3F43395-152C-450C-94E6-79A32A7E6E5D}
+	EndGlobalSection
+EndGlobal
