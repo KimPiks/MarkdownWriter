@@ -2,6 +2,8 @@
 
 Library for creating Markdown files in c#
 
+```dotnet add package csharp-MarkdownWriter```
+
 ## Usage
 
 1. Create an instance of the Markdown class with the name of the target file <br>
